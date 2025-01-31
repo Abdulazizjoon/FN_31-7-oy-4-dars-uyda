@@ -1,0 +1,178 @@
+{
+  "countries": [
+    {
+      "name": "Uzbekistan",
+      "code": "+998",
+      "flag": "https://flagcdn.com/w320/uz.png",
+      "number_length": 9
+    },
+    {
+      "name": "United States",
+      "code": "+1",
+      "flag": "https://flagcdn.com/w320/us.png",
+      "number_length": 10
+    },
+    {
+      "name": "Russia",
+      "code": "+7",
+      "flag": "https://flagcdn.com/w320/ru.png",
+      "number_length": 10
+    },
+    {
+      "name": "United Kingdom",
+      "code": "+44",
+      "flag": "https://flagcdn.com/w320/gb.png",
+      "number_length": 10
+    },
+    {
+      "name": "China",
+      "code": "+86",
+      "flag": "https://flagcdn.com/w320/cn.png",
+      "number_length": 11
+    },
+    {
+      "name": "Germany",
+      "code": "+49",
+      "flag": "https://flagcdn.com/w320/de.png",
+      "number_length": 10
+    },
+    {
+      "name": "France",
+      "code": "+33",
+      "flag": "https://flagcdn.com/w320/fr.png",
+      "number_length": 9
+    },
+    {
+      "name": "India",
+      "code": "+91",
+      "flag": "https://flagcdn.com/w320/in.png",
+      "number_length": 10
+    },
+    {
+      "name": "Japan",
+      "code": "+81",
+      "flag": "https://flagcdn.com/w320/jp.png",
+      "number_length": 10
+    },
+    {
+      "name": "Turkey",
+      "code": "+90",
+      "flag": "https://flagcdn.com/w320/tr.png",
+      "number_length": 10
+    },
+    {
+      "name": "South Korea",
+      "code": "+82",
+      "flag": "https://flagcdn.com/w320/kr.png",
+      "number_length": 10
+    },
+    {
+      "name": "Italy",
+      "code": "+39",
+      "flag": "https://flagcdn.com/w320/it.png",
+      "number_length": 10
+    },
+    {
+      "name": "Brazil",
+      "code": "+55",
+      "flag": "https://flagcdn.com/w320/br.png",
+      "number_length": 11
+    },
+    {
+      "name": "Canada",
+      "code": "+1",
+      "flag": "https://flagcdn.com/w320/ca.png",
+      "number_length": 10
+    },
+    {
+      "name": "Saudi Arabia",
+      "code": "+966",
+      "flag": "https://flagcdn.com/w320/sa.png",
+      "number_length": 9
+    },
+    {
+      "name": "United Arab Emirates",
+      "code": "+971",
+      "flag": "https://flagcdn.com/w320/ae.png",
+      "number_length": 9
+    },
+    {
+      "name": "Kazakhstan",
+      "code": "+7",
+      "flag": "https://flagcdn.com/w320/kz.png",
+      "number_length": 10
+    },
+    {
+      "name": "Pakistan",
+      "code": "+92",
+      "flag": "https://flagcdn.com/w320/pk.png",
+      "number_length": 10
+    },
+    {
+      "name": "Egypt",
+      "code": "+20",
+      "flag": "https://flagcdn.com/w320/eg.png",
+      "number_length": 10
+    },
+    {
+      "name": "Argentina",
+      "code": "+54",
+      "flag": "https://flagcdn.com/w320/ar.png",
+      "number_length": 10
+    },
+    {
+      "name": "Mexico",
+      "code": "+52",
+      "flag": "https://flagcdn.com/w320/mx.png",
+      "number_length": 10
+    },
+    {
+      "name": "Spain",
+      "code": "+34",
+      "flag": "https://flagcdn.com/w320/es.png",
+      "number_length": 9
+    },
+    {
+      "name": "South Africa",
+      "code": "+27",
+      "flag": "https://flagcdn.com/w320/za.png",
+      "number_length": 9
+    },
+    {
+      "name": "Nigeria",
+      "code": "+234",
+      "flag": "https://flagcdn.com/w320/ng.png",
+      "number_length": 10
+    },
+    {
+      "name": "Indonesia",
+      "code": "+62",
+      "flag": "https://flagcdn.com/w320/id.png",
+      "number_length": 10
+    },
+    {
+      "name": "Malaysia",
+      "code": "+60",
+      "flag": "https://flagcdn.com/w320/my.png",
+      "number_length": 9
+    },
+    {
+      "name": "Vietnam",
+      "code": "+84",
+      "flag": "https://flagcdn.com/w320/vn.png",
+      "number_length": 9
+    },
+    {
+      "name": "Thailand",
+      "code": "+66",
+      "flag": "https://flagcdn.com/w320/th.png",
+      "number_length": 9
+    },
+    {
+      "name": "Bangladesh",
+      "code": "+880",
+      "flag": "https://flagcdn.com/w320/bd.png",
+      "number_length": 10
+    }
+  ]
+}
